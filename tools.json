@@ -416,8 +416,9 @@
       "summary": "Finds errors in PHP applications",
       "website": "https://getpsalm.org/",
       "command": {
-        "composer-global-install": {
-          "package": "vimeo/psalm"
+        "phar-download": {
+          "phar": "https://github.com/vimeo/psalm/releases/download/1.0.3/psalm.phar",
+          "bin": "/usr/local/bin/psalm"
         }
       },
       "test": "psalm -h"
