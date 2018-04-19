@@ -417,7 +417,7 @@
       "website": "https://getpsalm.org/",
       "command": {
         "phar-download": {
-          "phar": "https://github.com/vimeo/psalm/releases/download/1.0.3/psalm.phar",
+          "phar": "https://github.com/vimeo/psalm/releases/download/1.1.1/psalm.phar",
           "bin": "/usr/local/bin/psalm"
         }
       },
