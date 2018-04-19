@@ -418,7 +418,7 @@
       "command": {
         "file-download": {
           "url": "https://github.com/vimeo/psalm/releases/download/1.1.0/psalm.phar.asc",
-          "file": "/usr/local/bin/infection.pubkey"
+          "file": "/usr/local/bin/psalm.phar.asc"
         },
         "phar-download": {
           "phar": "https://github.com/vimeo/psalm/releases/download/1.1.0/psalm.phar",
