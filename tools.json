@@ -416,8 +416,12 @@
       "summary": "Finds errors in PHP applications",
       "website": "https://getpsalm.org/",
       "command": {
+        "file-download": {
+          "url": "https://github.com/vimeo/psalm/releases/download/1.1.0/psalm.phar.asc",
+          "file": "/usr/local/bin/infection.pubkey"
+        },
         "phar-download": {
-          "phar": "https://github.com/vimeo/psalm/releases/download/1.1.1/psalm.phar",
+          "phar": "https://github.com/vimeo/psalm/releases/download/1.1.0/psalm.phar",
           "bin": "/usr/local/bin/psalm"
         }
       },
